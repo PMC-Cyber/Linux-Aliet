@@ -55,6 +55,8 @@
   <a href="https://chat.whatsapp.com/GSXO5n4K3NAKvmccNzNe3l" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Grup PMC MALWARE CYBER-red?style=for-the-badge&logo=whatsapp"></a>
   
 </p>
+<p align="left">
+  <a href="https://t.me/purwokerto_malware_cyber" target="_blank"><img src="https://img.shields.io/badge/telegram-Grup PMC MALWARE CYBER-red?style=for-the-badge&logo=telegram"></a>
 
 
 
