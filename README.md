@@ -48,11 +48,11 @@
 
 ### Find Me on :
 <p align="left">
-  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40aprizal_febrian-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/Instagram-PMC MALWARE CYBER-red?style=for-the-badge&logo=instagram"></a>
   
 </p>
 <p align="left">
-  <a href="https://www.telegram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40aprizal_febrian-red?style=for-the-badge&logo=telegram"></a>
+  <a href="https://chat.whatsapp.com/GSXO5n4K3NAKvmccNzNe3l" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Grup PMC MALWARE CYBER-red?style=for-the-badge&logo=whatsapp"></a>
   
 </p>
 
