@@ -43,11 +43,18 @@
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/Unlimited-Crack-You" target="_blank"><img src="https://img.shields.io/badge/Github-Unlimited-Crak-You-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Unlimited-Crack-You" target="_blank"><img src="https://img.shields.io/badge/Github-PMC MALWARE CYBER-green?style=for-the-badge&logo=github"></a>
 </p>
 
 ### Find Me on :
 <p align="left">
-  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/IG-%40aprizal_febrian-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40aprizal_febrian-red?style=for-the-badge&logo=instagram"></a>
   
 </p>
+<p align="left">
+  <a href="https://www.telegram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40aprizal_febrian-red?style=for-the-badge&logo=telegram"></a>
+  
+</p>
+
+
+
