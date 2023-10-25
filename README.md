@@ -10,7 +10,8 @@
 
 <p align="center">A beginners friendly, Automated Basic Tool.</p>
 
-##
+![BANNER](https://i.ibb.co/Mch33pb/IMG-20231025-195256.jpg)
+</p>
 
 ### Features
 
