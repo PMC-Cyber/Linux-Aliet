@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Siddhant Saaho-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-Tamil Eelam-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Author-./B7 Black Seven-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Encode-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-PMC Eelam-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
@@ -23,17 +23,17 @@
 
 - Just, Clone this repository -
 ```
- git clone https://github.com/SiddhantOffl/AI-Linux.git
+ git clone https://github.com/Unlimited-Crack-You/Linux-AI.git
 ```
 
-- Change to cloned directory and run `AI-Linux.sh` -
+- Change to cloned directory and run `Linux-AI.sh` -
 ```
- cd AI-Linux
- chmod +x AI-Linux.sh
- bash AI-Linux.sh
+ cd Linux-AI
+ chmod +x Linux-AI.sh
+ bash Linux-AI.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `AI-Linux.sh` is installed.
+- On first launch, It'll install the dependencies and that's it. `Linux-AI.sh` is installed.
 
 
 
@@ -43,11 +43,11 @@
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/SiddhantOffl" target="_blank"><img src="https://img.shields.io/badge/Github-SiddhantOffl-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Unlimited-Crack-You" target="_blank"><img src="https://img.shields.io/badge/Github-Unlimited-Crak-You-green?style=for-the-badge&logo=github"></a>
 </p>
 
 ### Find Me on :
 <p align="left">
-  <a href="https://www.instagram.com/yadhavoffl" target="_blank"><img src="https://img.shields.io/badge/IG-%40Yadhav_offl-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/IG-%40aprizal_febrian-red?style=for-the-badge&logo=instagram"></a>
   
 </p>
